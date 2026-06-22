@@ -1,87 +1,27 @@
-## <samp>Hi there, I'm Shiva Mani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
-
-### 💫 About Me
-- 🔭 Currently Working on my Portfolio.
-- 👯 Looking to Collaborate On: Android and web development projects, especially those involving modern frameworks.
----
-
-### 🌐 Connect with Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,100:3DDC84&height=120&section=header&text=Shiva%20Mani%20K&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Mobile%20Application%20Developer&descAlignY=65&descSize=15" width="100%"/>
 <p align="center">
-    <a href="https://x.com/shivamani84302" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/shivamanik" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+Kotlin+Multiplatform;Building+Android+apps;Currently+exploring+new+stacks;&font=Fira%20Code&center=true&width=440&height=40&duration=3000&pause=800&color=3DDC84&vCenter=true&size=20"/>
 </p>
 
----
-
-### 💻 Tech Stack
 <p align="center">
-    <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40"/>
-    </a>
-    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a>
+  <a href="https://portfolio-six-ashy-53.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/shivamanik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shivamanik593@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
+<br/>
 
-### 📊 GitHub Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=smk927&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=smk927&theme=blueberry&hide_border=false" alt="GitHub Streak" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smk927&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,java,cpp,python,mongodb,aws,react,ktor,figma,github&theme=dark" />
+</p>
 
----
-
-### 🏆 GitHub Trophies
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=smk927&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-### 🔝 Top Contributed Repos
-<div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=smk927&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
----
-
+<br/>
 
 <div align="center">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=smk927&icon=0&color=0" alt="Visitor Count" />
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=smk927&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smk927&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
 </div>
 
+<p align="center">📍 Bengaluru, India</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:1C1C1C&height=60&section=footer" width="100%"/>
